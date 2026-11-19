@@ -2,7 +2,7 @@
   <h1>
 # Small Business Inventory and Order Management
 </h1>
-<div align="center">
+
 *“We Build What’s Next”*
 
 [![Backend Tests](https://img.shields.io/badge/PHPUnit%20Tests-26%20Passed%20(132%20Assertions)-10b981?style=for-the-badge&logo=php&logoColor=white)](backend)

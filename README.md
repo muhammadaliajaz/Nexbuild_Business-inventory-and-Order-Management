@@ -1,6 +1,7 @@
 <div align="center">
+  <h1>
 # Small Business Inventory and Order Management
-
+</h1>
 <div align="center">
 *“We Build What’s Next”*
 

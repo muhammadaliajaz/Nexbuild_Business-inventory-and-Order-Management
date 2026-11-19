@@ -1,3 +1,4 @@
+<div align="center">
 # Small Business Inventory and Order Management
 
 <div align="center">
